@@ -46,10 +46,10 @@
   .newsletter h4{
       font-style: italic;
       font-size: 17px;
-      color:#0fbcf9;
+      color:#4496b4;
   }
   .newsletter h2{
-      color:#0fbcf9;
+      color:#4496b4;
       font-style: italic;
       font-size: 35px;
   }
@@ -65,7 +65,7 @@
       outline: none;
 }
 .newsletter-btn{
-    background: linear-gradient(125deg, #7efff5, #0fbcf9);
+    background: linear-gradient(125deg, #6cc5ee, #7ed5f5);
     color: #fff;
     cursor: pointer;
     transition: 0.4s;
